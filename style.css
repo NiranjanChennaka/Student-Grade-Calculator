@@ -1,0 +1,33 @@
+body
+{
+
+    background-color: rgba(187, 174, 153, 0.938);
+    /* background-image:url("https://wallpaperaccess.com/full/3214373.jpg") ; */
+
+}
+.red{
+    background-color: rgb(243, 240, 234);
+    color: black;
+}
+.blue{
+    background-color: rgb(38, 71, 156);
+    color: whitesmoke;
+}
+.paddi{
+    padding-top: 3%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    color: rgba(10, 3, 3, 0.979);
+}
+.bl{
+    color: rgb(15, 3, 2);
+
+}
+.content{
+    padding:0%;
+}
+
+.box2{
+    padding: 3%;
+    color: black;
+}
